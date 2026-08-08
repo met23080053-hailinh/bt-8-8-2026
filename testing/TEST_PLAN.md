@@ -1,8 +1,5 @@
 # TEST PLAN - AURA LUXE E-Commerce System
 
-**Ngày tạo**: 08/08/2026  
-**Phiên bản**: 1.0  
-**Trạng thái**: Ready for Testing
 
 ---
 
@@ -264,26 +261,5 @@ Bugs mong đợi:
 - 1-3 bugs High
 - 2-4 bugs Medium
 ```
-
 ---
 
-## 12. TÀI LIỆU THAM KHẢO
-
-- [TEST_CASES.md](TEST_CASES.md) - Chi tiết 20 test case
-- [TEST_REPORT.md](TEST_REPORT.md) - Template báo cáo
-- [Demo website bán hàng.html](Demo%20website%20bán%20hàng.html) - Source code
-
----
-
-## 13. APPROVAL
-
-| Người | Vai trò | Ký | Ngày |
-|-------|---------|-----|------|
-| [Sinh viên] | Tester | ___ | ____ |
-| [Giáo viên] | Reviewer | ___ | ____ |
-
----
-
-**Phiên bản**: 1.0  
-**Trạng thái**: ✅ Ready  
-**Lần cập nhật cuối**: 08/08/2026
